@@ -1,4 +1,4 @@
-echo 0 | sudo tee /sys/class/leds/ACT/brightness > /dev/null
+echo 0 | sudo tee /sys/class/leds/LED0/brightness > /dev/null
 
 cd /home/pi
 
